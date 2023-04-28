@@ -26,9 +26,9 @@
 }
 .btn-label {
 	position: relative;
-	left: -12px;
+	left: -10px;
 	display: inline-block;
-	padding: 6px 12px;
+	padding: 5px 5px;
 }
 
 .btn-labeled {
